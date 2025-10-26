@@ -1,7 +1,7 @@
 # Vibe Coding Quick Start Guide
 **For first-time builders who want to ship something today**
 
-This is the streamlined version. Want more depth? Check out the [Comprehensive Guide](./vibe_coding_framework_v1_updated.md).
+This is the streamlined version. Want more depth? Check out the [Comprehensive Guide](./index.md).
 
 ---
 
