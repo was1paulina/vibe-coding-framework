@@ -4,7 +4,7 @@
 
 A comprehensive guide documenting my learnings and approach to turning ideas into working prototypes using Claude, compiled for anyone who wants to learn vibe coding.
 
-**Version 1.0** - October 2024
+**Version 1.0** - October 2025
 
 ---
 
@@ -231,6 +231,6 @@ Built something using this framework? I'd genuinely love to hear about it.
 
 ---
 
-*Version 1.0 - October 2024*
+*Version 1.0 - October 2025*
 
 *A personal project to systematize and share what I've learned about vibe coding.*
