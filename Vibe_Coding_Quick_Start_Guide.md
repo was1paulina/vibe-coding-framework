@@ -585,7 +585,7 @@ Ask Claude: "How do I deploy this to [platform]?"
 
 ### Ready for More Depth?
 
-Read the [Comprehensive Vibe Coding Framework](./vibe_coding_framework_v1_updated.md) for:
+Read the [Comprehensive Vibe Coding Framework](./index.md)for:
 - Advanced prompting techniques
 - Architecture patterns for complex apps
 - Production deployment strategies
@@ -677,7 +677,7 @@ Don't aim for perfect. Aim for done and learned.
 ## Resources
 
 **Essential Reading:**
-- [Comprehensive Vibe Coding Framework](./vibe_coding_framework_v1_updated.md) - Deep dive into all phases, complete case studies, troubleshooting
+- [Comprehensive Vibe Coding Framework](./index.md) - Deep dive into all phases, complete case studies, troubleshooting
 - [Claude.ai Documentation](https://docs.anthropic.com) - Official docs and best practices
 
 **When You Need Help:**
